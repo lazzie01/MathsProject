@@ -1,5 +1,0 @@
-C:\Projects\Algorithms\Algorithms\Algorithms.Console\obj\Debug\net5.0\Algorithms.Console.csproj.AssemblyReference.cache
-C:\Projects\Algorithms\Algorithms\Algorithms.Console\obj\Debug\net5.0\Algorithms.Console.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projects\Algorithms\Algorithms\Algorithms.Console\obj\Debug\net5.0\Algorithms.Console.AssemblyInfoInputs.cache
-C:\Projects\Algorithms\Algorithms\Algorithms.Console\obj\Debug\net5.0\Algorithms.Console.AssemblyInfo.cs
-C:\Projects\Algorithms\Algorithms\Algorithms.Console\obj\Debug\net5.0\Algorithms.Console.csproj.CoreCompileInputs.cache

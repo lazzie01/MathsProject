@@ -7,9 +7,9 @@ namespace MathProject
     {
         static void Main(string[] args)
         {
-            var result = Maths.FindPrimes(1, int.MaxValue);
+            var result = Maths.FindPrimes(1, 100);
 
-            Console.WriteLine($"prime number count: {result}");
+            Console.WriteLine($"prime number count: {result.Count}");
         }
     }
 }
